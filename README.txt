@@ -37,7 +37,7 @@ ML Model	Logistic Regression / Random Forest (Anomaly Detection on vitals)
 
 ⚙️ Installation & Setup
 1️⃣ Clone Repository
-git clone https://github.com/<your-username>/fog-cloud-health-system.git
+git clone https://github.com/aniruddhsinghh/Foghealth.git
 cd fog-cloud-health-system
 
 2️⃣ Create Virtual Environment
